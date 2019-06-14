@@ -29,7 +29,7 @@
 
 - name: configure PKI 10.6 nightly COPR
   shell: "dnf copr enable -y @pki/10.6-nightly"
-  when: repo_pki_testing_enabled
+  when: repo_pki_10_6_nightly_enabled
 
 - name: configure PKI master COPR
   shell: "dnf copr enable -y @pki/master"

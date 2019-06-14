@@ -8,5 +8,5 @@ fedora_rawhide_images_remote_dir: https://dl.fedoraproject.org/pub/fedora/linux/
 
 repo_rawhide_enabled: 1
 repo_freeipa_copr_enabled: 1
-repo_pki_testing_enabled: 0
+repo_pki_10_6_nightly_enabled: 0
 repo_pki_master_enabled: 1
